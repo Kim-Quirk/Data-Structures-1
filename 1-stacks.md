@@ -12,7 +12,9 @@ As you can see, the program enters the function main(), then do_something(), do_
 
 ## Stack of Plates
 
-Another example of a stack is a stack of plates. Each plate that is added goes on top of the previous plate. When you want to use a plate, you take the one off of the top. The stack functions in the same way, with last item that was added being the first to be removed. 
+Another example of a stack is a stack of plates. Each plate that is added goes on top of the previous plate. When you want to use a plate, you take the one off of the top. The stack functions in the same way, with last item that was added being the first to be removed.
+
+![plates.PNG](plates.png)
 
 ## Push & Pop
 
